@@ -9,7 +9,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Gentellela Alela! | </title>
+        <title>TEST| </title>
+        <link rel="shortcut icon" href="images/favicon.ico" />
 
         <!-- Bootstrap -->
         <link href="{{ asset("css/bootstrap.min.css") }}" rel="stylesheet">
@@ -26,9 +27,9 @@
         <div class="container body">
             <div class="main_container">
 
-                @include('includes/sidebar')
+                @include('admin/includes/sidebar')
 
-                @include('includes/topbar')
+                @include('admin/includes/topbar')
 
                 @yield('main_container')
 

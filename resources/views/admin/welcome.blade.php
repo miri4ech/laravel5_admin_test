@@ -1,4 +1,4 @@
-@extends('layouts.blank')
+@extends('admin.layouts.blank')
 
 @push('stylesheets')
     <!-- iCheck -->
@@ -13,7 +13,8 @@
 
     <!-- page content -->
     <div class="right_col" role="main">
-
+    Hello, Miri !
+    
     </div>
     <!-- /page content -->
 

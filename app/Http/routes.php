@@ -11,6 +11,8 @@
 |
 */
 
+
+//管理画面関連ページ群
 Route::get('/', function () {
-    return view('welcome');
+    return view('admin.dashboard');
 });

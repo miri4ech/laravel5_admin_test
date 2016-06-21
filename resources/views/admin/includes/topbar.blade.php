@@ -9,7 +9,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="">
                     <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                        <img src="images/img.jpg" alt="">John Doe
+                        <img src="images/img.jpg" alt="">Miri Kunsiada
                         <span class=" fa fa-angle-down"></span>
                     </a>
                     <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -33,9 +33,9 @@
                     <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
                         <li>
                             <a>
-                                <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                                <span class="image"><img src="images/img2.jpg" alt="Profile Image" /></span>
                         <span>
-                          <span>John Smith</span>
+                          <span>Mint Middleton</span>
                           <span class="time">3 mins ago</span>
                         </span>
                         <span class="message">
@@ -45,9 +45,9 @@
                         </li>
                         <li>
                             <a>
-                                <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                                <span class="image"><img src="images/img2.jpg" alt="Profile Image" /></span>
                         <span>
-                          <span>John Smith</span>
+                          <span>Mint Middleton</span>
                           <span class="time">3 mins ago</span>
                         </span>
                         <span class="message">
@@ -57,9 +57,9 @@
                         </li>
                         <li>
                             <a>
-                                <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                                <span class="image"><img src="images/img2.jpg" alt="Profile Image" /></span>
                         <span>
-                          <span>John Smith</span>
+                          <span>Mint Middleton</span>
                           <span class="time">3 mins ago</span>
                         </span>
                         <span class="message">
@@ -69,9 +69,9 @@
                         </li>
                         <li>
                             <a>
-                                <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                                <span class="image"><img src="images/img2.jpg" alt="Profile Image" /></span>
                         <span>
-                          <span>John Smith</span>
+                          <span>Mint Middleton</span>
                           <span class="time">3 mins ago</span>
                         </span>
                         <span class="message">
